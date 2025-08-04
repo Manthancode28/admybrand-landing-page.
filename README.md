@@ -55,9 +55,9 @@ ADmyBRAND/
 3. `"Give me smooth scroll-in animation using Tailwind or animate.css"`
 
 ### AI vs Manual Work Split
-- **AI-Generated:** ~60%  
+- **AI-Generated:** ~50%  
   *Initial layout structure, styling help, prompt-based UI component scaffolding*
-- **Manual Coding:** ~40%  
+- **Manual Coding:** ~50%  
   *Component customization, state handling, animations, responsiveness, fine-tuning design*
 - **Customization:**  
   All AI-suggested code was iteratively refined for responsiveness, mobile support, accessibility, and branding consistency.
